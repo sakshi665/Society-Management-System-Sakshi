@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pro2
+</name>
+</assembly>
+<members>
+<member name="T:pro2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:pro2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:pro2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:pro2.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pro2.My.Resources.Resources.Screenshot__1111_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.addhouseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.addsocietyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.adminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.complainboxDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.housedetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.membersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.renthouseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.sellhouseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.addhouseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.addsocietyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.adminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.complainboxRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.housedetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.membersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.renthouseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.sellhouseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.addhouseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.addsocietyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.adminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.complainboxRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.housedetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.membersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.renthouseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSet.sellhouseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.addhouseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.addsocietyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.adminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.complainboxTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.housedetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.membersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.renthouseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.sellhouseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:pro2.societyDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(pro2.societyDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:pro2.societyDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(pro2.societyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:pro2.societyDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(pro2.societyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:pro2.societyDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:pro2.societyDataSetTableAdapters.TableAdapterManager.UpdateAll(pro2.societyDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:pro2.societyDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
